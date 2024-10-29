@@ -45,4 +45,7 @@ CAPSTONE ITERATION-3
 #CONTACT PAGE
 ![image](https://github.com/user-attachments/assets/95601944-8376-44d2-bf70-d39df9a2b96e)
 
+#MULTIPLE SCREEN SIZES
+![image](https://github.com/user-attachments/assets/fe64fb7d-a5d9-4e82-a8b0-a6057dc470fa)
+
 
