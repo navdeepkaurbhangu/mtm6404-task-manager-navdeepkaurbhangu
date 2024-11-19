@@ -31,3 +31,21 @@ CAPSTONE ITERATION-2
 
 #MULTIPLE SCREEN SIZES
 ![image](https://github.com/user-attachments/assets/6bd5e5bf-bbc1-40d7-80dc-9bf9c79656d5)
+
+
+# React + Vite
+CAPSTONE ITERATION-3
+
+#HOME PAGE
+![image](https://github.com/user-attachments/assets/fca213e4-cb28-4405-9fd0-ed4e57b465f6)
+
+#ABOUT PAGE
+![image](https://github.com/user-attachments/assets/c1a87a9e-8b3f-4737-96dc-8772861dad82)
+
+#CONTACT PAGE
+![image](https://github.com/user-attachments/assets/95601944-8376-44d2-bf70-d39df9a2b96e)
+
+#MULTIPLE SCREEN SIZES
+![image](https://github.com/user-attachments/assets/fe64fb7d-a5d9-4e82-a8b0-a6057dc470fa)
+
+
