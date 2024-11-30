@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Task Manager</title>
+  <link rel="stylesheet" href="style.css"> <!-- Link to external CSS file -->
+</head>
+<body>
+  <div class="app-container">
+    <div class="header-container">
+      <h1>Task Manager</h1>
+      <p>Manage your tasks efficiently</p>
+    </div>
+
+    <!-- Add List Form -->
+    <div class="add-list-container">
+      <input type="text" placeholder="Add a new list..." id="new-list">
+      <button onclick="addList()">Add List</button>
+    </div>
+
+    <!-- List View -->
+    <div class="list-view-container">
+      <h2>Lists</h2>
+      <ul id="list-view">
+        <!-- Dynamically populated lists will appear here -->
+      </ul>
+    </div>
+
+    <!-- Task Box (for each list) -->
+    <div class="task-container" id="task-box">
+      <h2>Tasks for <span id="selected-list-name">No list selected</span></h2>
+
+      <!-- Task Add Form -->
+      <div class="add-task-container">
+        <input type="text" id="task-input" placeholder="Add a task..." />
+        <button onclick="addTask()">Add Task</button>
+      </div>
+
+      <!-- Tasks List -->
+      <ul id="task-view">
+        <!-- Tasks will appear here -->
+      </ul>
+    </div>
+  </div>
+
+  <div class="footer-container">
+    <p>&copy; 2024 Task Manager</p>
+  </div>
+
+  <script src="script.js"></script> <!-- Link to external JavaScript file -->
+</body>
+</html>
