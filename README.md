@@ -31,3 +31,4 @@ CAPSTONE ITERATION-2
 
 #MULTIPLE SCREEN SIZES
 ![image](https://github.com/user-attachments/assets/6bd5e5bf-bbc1-40d7-80dc-9bf9c79656d5)
+CAPSTONE
